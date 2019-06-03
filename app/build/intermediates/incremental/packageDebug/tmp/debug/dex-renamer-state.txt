@@ -1,0 +1,4 @@
+#Mon Jun 03 13:46:43 ICT 2019
+base.0=D\:\\AndroidStudioJ\\UAS\\MapAPI\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
